@@ -1,0 +1,145 @@
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\appsettings.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\base_fp.exe
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\base_fp.deps.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\base_fp.runtimeconfig.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\base_fp.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\base_fp.pdb
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.csproj.AssemblyReference.cache
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.AssemblyInfoInputs.cache
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.AssemblyInfo.cs
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.csproj.CoreCompileInputs.cache
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.base_fp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.build.base_fp.props
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.base_fp.props
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.base_fp.props
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\scopedcss\bundle\base_fp.styles.css
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.csproj.Up2Date
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\refint\base_fp.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.pdb
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\base_fp.genruntimeconfig.cache
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\obj\Debug\net8.0\ref\base_fp.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Humanizer.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\base_fp.staticwebassets.runtime.json
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\SendGrid.dll
+C:\Users\alaba\OneDrive\Desktop\Big Data Analytics Semester1\bdat 1001\base_fp\base_fp\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\base_fp.staticwebassets.runtime.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\base_fp.exe
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\base_fp.deps.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\base_fp.runtimeconfig.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\base_fp.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\base_fp.pdb
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\SendGrid.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.AssemblyInfo.cs
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.base_fp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.build.base_fp.props
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.base_fp.props
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.base_fp.props
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\scopedcss\bundle\base_fp.styles.css
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.csproj.Up2Date
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\refint\base_fp.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.pdb
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\base_fp.genruntimeconfig.cache
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\obj\Debug\net8.0\ref\base_fp.dll
+C:\Users\HP\Desktop\Naseef\basefp2\base_fp\base_fp\bin\Debug\net8.0\SendGridHelper.dll

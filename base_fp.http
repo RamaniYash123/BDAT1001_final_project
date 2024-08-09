@@ -1,0 +1,6 @@
+@base_fp_HostAddress = http://localhost:5178
+
+GET {{base_fp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
